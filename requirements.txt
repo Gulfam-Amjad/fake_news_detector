@@ -15,7 +15,7 @@ nltk==3.8.1                # Tokenization, stopwords, stemming/lemmatization
 regex==2023.12.25          # Advanced regex for text cleaning
 
 # --- Model Saving ---
-joblib==1.3.2              # Save/load sklearn models efficiently
+joblib>=1.4.0              # Save/load sklearn models efficiently
 
 # --- Visualization ---
 matplotlib==3.8.3          # Plotting confusion matrices, word counts
