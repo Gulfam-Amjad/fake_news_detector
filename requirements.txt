@@ -1,0 +1,35 @@
+# ============================================================
+# requirements.txt — All dependencies for Fake News Detector
+# Install with: pip install -r requirements.txt
+# ============================================================
+
+# --- Core Data Science ---
+numpy==1.26.4              # Numerical computing (arrays, math ops)
+pandas==2.2.1              # DataFrames for loading and manipulating CSVs
+
+# --- Machine Learning ---
+scikit-learn==1.6.1        # Match model training version for best_model.pkl
+
+# --- NLP & Text Processing ---
+nltk==3.8.1                # Tokenization, stopwords, stemming/lemmatization
+regex==2023.12.25          # Advanced regex for text cleaning
+
+# --- Model Saving ---
+joblib==1.3.2              # Save/load sklearn models efficiently
+
+# --- Visualization ---
+matplotlib==3.8.3          # Plotting confusion matrices, word counts
+seaborn==0.13.2            # Beautiful statistical visualizations
+wordcloud==1.9.3           # Word cloud visualization
+
+# --- Web App ---
+streamlit==1.32.2          # Turn model into interactive web app
+
+# --- Jupyter (for notebooks) ---
+jupyter==1.0.0             # Run .ipynb notebooks
+ipykernel==6.29.3          # Jupyter kernel
+
+# --- Optional: BERT/Transformers (uncomment if you want to use BERT) ---
+# torch==2.2.1             # PyTorch deep learning framework
+# transformers==4.38.2     # Hugging Face BERT and other transformers
+# datasets==2.18.0         # Hugging Face datasets utility

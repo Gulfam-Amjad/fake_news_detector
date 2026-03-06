@@ -1,0 +1,23 @@
+# ============================================================
+# .streamlit/config.toml
+#
+# Streamlit configuration file.
+# Controls the look, feel, and server behavior of the app.
+# Streamlit reads this automatically when the app starts.
+# ============================================================
+
+[theme]
+# Color scheme for the entire app
+primaryColor        = "#3b82f6"   # Blue — used for buttons, sliders, highlights
+backgroundColor     = "#f8fafc"   # Light grey page background
+secondaryBackgroundColor = "#f1f5f9"  # Slightly darker for sidebars/cards
+textColor           = "#1e293b"   # Dark slate for readable text
+font                = "sans serif"
+
+[server]
+# Disable usage statistics — no data sent to Streamlit
+gatherUsageStats = false
+
+[browser]
+# Prevents browser from showing "do you want to leave?" dialog
+gatherUsageStats = false

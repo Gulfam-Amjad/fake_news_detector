@@ -1,0 +1,4 @@
+# This file keeps the models/ directory tracked by git even when empty.
+# Trained model files (.pkl) should be added to .gitignore since they're
+# large binary files that shouldn't be committed to version control.
+# Users should train their own models by running: python src/train.py
