@@ -1,3 +1,30 @@
+<div align="center">
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=🕵️+Fake+News+Detector;Real+or+Fake%3F+AI+Knows.;98%25+Accuracy+ML+System." alt="Typing SVG" />
+
+<br>
+
+**Powered by Machine Learning · TF-IDF · Logistic Regression · BERT**
+
+<br>
+
+[![Live Demo](https://img.shields.io/badge/⚡_LIVE_DEMO-Click_to_Try-22c55e?style=for-the-badge&logo=streamlit&logoColor=white)](https://fakenewsdetector-xpv6bbzptf2ybnvaxm7wdi.streamlit.app/)
+[![Made With Python](https://img.shields.io/badge/Made_with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![ML Powered](https://img.shields.io/badge/ML-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+
+<br>
+
+> *"In a world full of misinformation — this tool fights back."*
+
+<br>
+
+</div>
+
+---
+
+
 # 📰 Fake News Detector
 
 A Machine Learning project to classify news articles as **REAL** or **FAKE**
